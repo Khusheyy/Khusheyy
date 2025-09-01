@@ -1,6 +1,6 @@
 # hey im khushi
 
-a 2nd year cse student exploring AI and ML every day. 
+a 2nd year cse student exploring AI and ML every day.  <br>
 i write about blogs on cool stuffs like tech, space, physics and ideas that inspire me.
 
 ## what i do
