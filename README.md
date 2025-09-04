@@ -1,5 +1,11 @@
 # hey im khushi
 
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20241008160104258350/gfg-demo.png"
+    alt="Description of the image" />
+
+   
+
+
 a 2nd year cse student exploring AI and ML every day.  <br>
 i write about blogs on cool stuffs like tech, space, physics and ideas that inspire me.
 
