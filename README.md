@@ -1,7 +1,6 @@
 # hey im khushi
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20241008160104258350/gfg-demo.png"
-    alt="Description of the image" />
+<img src="ascii eyes.jpeg"/>
 
    
 
