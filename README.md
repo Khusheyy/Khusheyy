@@ -1,6 +1,6 @@
 # hey im khushi
 
-<img src="ascii eyes.jpeg"/>
+<img src="ascii eyes.png"/>
 
    
 
