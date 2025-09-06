@@ -13,4 +13,4 @@ i write blogs on cool stuffs like tech, space, physics and ideas that inspire me
 ## find me
 &gt; X: https://x.com/_khusheyyy <br>
 &gt; Medium: https://medium.com/@khushipurohit171 <br>
-&gt; LinkedIn: https://www.linkedin.com/in/khushi-purohit-63bb91327/
+
