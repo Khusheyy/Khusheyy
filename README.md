@@ -1,4 +1,4 @@
-# hey im khushi
+# こんにちは  im khushi
 
 <img src="ascii eyes.png"/>
 
