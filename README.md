@@ -1,7 +1,7 @@
  # こんにちは、私はクシです.
 
- <br>
- # hii i am khushi.
+ 
+ <p> hii i am khushi.</p>
 
 <img src="ascii eyes.png"/>
 
