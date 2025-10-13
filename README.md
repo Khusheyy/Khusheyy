@@ -14,6 +14,6 @@ i write blogs on cool stuffs like tech, space, physics and ideas that inspire me
 &gt; building cool projects :P   <br>
 
 ## find me
-&gt; X: https://x.com/_khusheyyy <br>
+&gt; X: real homies know me on x
 &gt; Medium: https://medium.com/@khushipurohit171 <br>
 
