@@ -3,7 +3,7 @@
  
  ## hey, i am KHUSHI :)
 
-<img src="ascii eyes.png"/>
+<img src="ascii-art.png"/>
 
 a 2nd year cse student exploring AI and ML every day.  <br>
 i write blogs on cool stuffs like tech, space, physics and ideas that inspire me.
