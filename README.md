@@ -28,8 +28,8 @@
 ## socials
 
 - **[twitter/x](https://x.com/_khusheyyy)**
-- **[twitter/x](https://medium.com/@khusheyyy)**
-- **[twitter/x](https://www.linkedin.com/in/khusheyyy/)**
+- **[medium](https://medium.com/@khusheyyy)**
+- **[linkedin](https://www.linkedin.com/in/khusheyyy/)**
 
   
 
